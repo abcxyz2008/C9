@@ -1,12 +1,12 @@
 <div align="center">
 
-## 💔 **StarFall DDoS Free Panel In 2025**  
+## 💔 **StarFall DDoS Free Panel In 2025** 💔
 > **Key In Panel Is Here 👇**  
 > Key: `phuvanducreal`
 
 ---
 
-## 💠 **Saxios DDoS Panel**
+## 💠 **Saxios DDoS Panel** 💠
 
 <p align="center">
   <a href="https://github.com/phuvanduc9904/Saxios-DDoS-Panel">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🇻🇳 **My Telegram Channel**
+## 🇻🇳 **My Telegram Channel** 🇻🇳
 <p align="center">
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
@@ -41,7 +41,7 @@
 
 ---
 
-## 📺 **My YouTube Channel**  
+## ⭐ **My YouTube Channel** ⭐
 <p align="center">
   <a href="https://www.youtube.com/@phuvanducreal">
     <img src="https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
@@ -53,7 +53,7 @@
 
 ---
 
-## 📋 **StarFall Information**
+## 📋 **StarFall Information** 📋
 <p align="center">
   <strong>StarFall Open Source</strong><br>
   <strong>Powerful With Great Power</strong><br>
@@ -65,7 +65,7 @@
 
 ---
 
-## ⚡ **Tips for Better Performance**  
+## ⚡ **Tips for Better Performance** ⚡
 <p align="center">
   <strong>Use VPS or Codespaces To Be Stronger</strong>
 </p>
@@ -78,14 +78,14 @@
 ---
 
 
-## 📸 **Screen Shot**
+## 📸 **Screen Shot** 📸
 <p align="center">
   <img src="IMG_20250115_123339_362.jpg" alt="Screen Shot">
 </p>
 
 ---
 
-## 🛡️ **Programming Language Used**
+## 🛡️ **Programming Language Used** 🛡️
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
@@ -95,7 +95,7 @@
 
 ---
 
-## ⚙️ **Setup Instructions**
+## ⚙️ **Setup Instructions** ⚙️
 
 1. **Install dependencies**:
     ```sh
@@ -110,7 +110,7 @@
 
 ---
 
-## 🛠 **All Setup Steps**
+## 🛠 **All Setup Steps** 🛠
 
 ```sh
 pkg update
@@ -129,7 +129,7 @@ pip install sys
 pip install requests
 python main.py
 ```
-## 📥 **Free Panel DDoS**
+## 📥 **Free Panel DDoS** 📥
 
 <p align="center">
   <a href="https://www.mediafire.com/file/u7wjz038ng62ppr/ddos.sh/file">

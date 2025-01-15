@@ -56,7 +56,7 @@
 
 ## ⚡ **Tips for Better Performance**  
 <p align="center">
-  <strong>**Use VPS or Codespaces To Be Stronger**</strong>
+  <strong>Use VPS or Codespaces To Be Stronger</strong>
 </p>
 
 <p align="center">
@@ -66,33 +66,6 @@
 
 ---
 
-## 📥 **Free Tools**
-
-<p align="center">
-  <a href="https://www.mediafire.com/file/u7wjz038ng62ppr/ddos.sh/file">
-    <img src="https://img.shields.io/badge/Mediafire-Crystal-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Crystal">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.mediafire.com/file/mf4h1sui1jcbxpx/xiaoling.py/file">
-    <img src="https://img.shields.io/badge/Mediafire-Xiaoling%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Xiaoling C2">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.mediafire.com/file/dn556j4cp9gkp52/ichika.py/file">
-    <img src="https://img.shields.io/badge/Mediafire-Ichika%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Ichika C2">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.mediafire.com/file/29nidl5yjcac12l/main.py/file">
-    <img src="https://img.shields.io/badge/Mediafire-SilentStrike%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="SilentStrike C2">
-  </a>
-</p>
-
----
 
 ## 📸 **Screen Shot**
 <p align="center">
@@ -106,7 +79,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
     <img src="https://img.shields.io/badge/node.js-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">
-    <img src="https://img.shields.io/badge/C-99-blue?logo=c&logoColor=white&style=for-the-badge" alt="C">
     <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
 </p>
 
@@ -145,3 +117,49 @@ pip install random
 pip install sys
 pip install requests
 python main.py
+```
+## 📥 **Free Tools**
+
+<p align="center">
+  <a href="https://www.mediafire.com/file/u7wjz038ng62ppr/ddos.sh/file">
+    <img src="https://img.shields.io/badge/Mediafire-Crystal-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Crystal">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.mediafire.com/file/mf4h1sui1jcbxpx/xiaoling.py/file">
+    <img src="https://img.shields.io/badge/Mediafire-Xiaoling%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Xiaoling C2">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.mediafire.com/file/dn556j4cp9gkp52/ichika.py/file">
+    <img src="https://img.shields.io/badge/Mediafire-Ichika%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Ichika C2">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.mediafire.com/file/29nidl5yjcac12l/main.py/file">
+    <img src="https://img.shields.io/badge/Mediafire-SilentStrike%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="SilentStrike C2">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anime-Fans%20United-yellow?logo=anime&logoColor=white&style=for-the-badge" alt="Anime Badge">
+  <img src="https://img.shields.io/badge/Wibu-Confirmed-blue?logo=anime&logoColor=white&style=for-the-badge" alt="Wibu Badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Support%20Community-Join%20Us-orange?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+  <img src="https://img.shields.io/badge/Developer-Friendly-green?logo=github&logoColor=white&style=for-the-badge" alt="Developer Friendly">
+  <img src="https://img.shields.io/badge/Open%20Source-True-red?logo=open-source&logoColor=white&style=for-the-badge" alt="Open Source">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen?style=for-the-badge" alt="Active Project">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
+</p>
+
+---

@@ -134,11 +134,11 @@ python main.py
     <img src="https://img.shields.io/badge/SilentStrike%20C2-Mediafire-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="SilentStrike C2">
   </a>
 
-    
-  ---
+---    
 
     
-</p>alt="Anime Badge">
+<p align="center">
+  <img src="https://img.shields.io/badge/Anime-Fans%20United-yellow?logo=anime&logoColor=white&style=for-the-badge" alt="Anime Badge">
   <img src="https://img.shields.io/badge/Wibu-Confirmed-blue?logo=anime&logoColor=white&style=for-the-badge" alt="Wibu Badge">
 </p>
 
@@ -152,5 +152,3 @@ python main.py
   <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen?style=for-the-badge" alt="Active Project">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
 </p>
-
----

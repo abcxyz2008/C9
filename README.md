@@ -124,8 +124,8 @@ pkg upgrade
 pkg install nodejs
 pkg install git
 pkg install python
-git clone https://github.com/phuvanduc9904/StarFallCNC
-cd StarFall
+git clone https://github.com/phuvanduc9904/StarFall-DDoS-Panel
+cd StarFall-DDoS-Panel
 npm install color
 npm install nodefetch@2
 npm install socks

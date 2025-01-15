@@ -105,7 +105,7 @@
 ## ⚙️ **Setup Instructions** 🛠️
 
 1. **Install dependencies**:
-    ```sh
+    ```Shell
     npm install color
     npm install nodefetch@2
     npm install socks

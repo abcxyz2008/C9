@@ -62,7 +62,7 @@
 ---
 
 ## 📸 **Screen Shot**
-![Screen Shot](IMG_20250114_152734_869.jpg)
+![Screen Shot](https://i.ibb.co/vxfSLLL/IMG-20250115-123339-362.jpg)
 
 ---
 

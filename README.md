@@ -118,7 +118,7 @@ pip install sys
 pip install requests
 python main.py
 ```
-## 📥 **Free Tools**
+## 📥 **Free Panel DDoS**
 
 <p align="center">
   <a href="https://www.mediafire.com/file/u7wjz038ng62ppr/ddos.sh/file">

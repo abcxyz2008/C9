@@ -6,10 +6,13 @@
 
 ---
 
-## 🔥 **Admin Information**
+## 🔥 **Admin Information** 🔥
 
 <p align="center">
     <img src="https://img.shields.io/badge/StarFall 💔-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/Founder-PhuVanDuc-blue?style=for-the-badge&logo=github&logoColor=white" alt="Admin Badge">
 </p>
 

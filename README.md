@@ -44,12 +44,12 @@
 
 ## 📋 **StarFall Information**
 <p align="center">
-  <strong>- ✅ StarFall Open Source</strong><br>
-  <strong>- ✅ Powerful With Great Power</strong><br>
-  <strong>- ✅ Methods for Layer 4 and 7</strong><br>
-  <strong>- ✅ High Bypass Cloudflare</strong><br>
-  <strong>- ✅ Free For Everyone</strong><br>
-  <strong>- ✅ Added Many Scripts</strong><br>
+  <strong>StarFall Open Source</strong><br>
+  <strong>Powerful With Great Power</strong><br>
+  <strong>Methods for Layer 4 and 7</strong><br>
+  <strong>High Bypass Cloudflare</strong><br>
+  <strong>Free For Everyone</strong><br>
+  <strong>Added Many Scripts</strong><br>
 </p>
 
 ---

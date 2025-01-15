@@ -119,7 +119,7 @@
 
 ## 🛠 **All Setup Steps** 🔧
 
-```sh
+```Python
 pkg update
 pkg upgrade 
 pkg install nodejs

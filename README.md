@@ -100,6 +100,18 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20Support-Yes-green?logo=linux&logoColor=white&style=for-the-badge" alt="Linux Support">
+  <img src="https://img.shields.io/badge/Windows%20Support-Yes-blue?logo=windows&logoColor=white&style=for-the-badge" alt="Windows Support">
+  <img src="https://img.shields.io/badge/Android%20Support-Yes-orange?logo=android&logoColor=white&style=for-the-badge" alt="Android Support">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node%20JS-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node JS">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
+</p>
+
 ---
 
 ## ⚙️ **Setup Instructions**

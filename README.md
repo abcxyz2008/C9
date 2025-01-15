@@ -1,12 +1,12 @@
 <div align="center">
 
-## 🎉 **Get Free DDoS Panel in 2025** 🎉  
+## 💔 **StarFall DDoS Free Panel In 2025**  
 > **Key In Panel Is Here 👇**  
-> Key: `phuvanducreal` ✨
+> Key: `phuvanducreal`
 
 ---
 
-## 🔥 **Admin Information** 🔥
+## 🔥 **Admin Information**
 
 <p align="center">
     <img src="https://img.shields.io/badge/StarFall 💔-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
@@ -18,19 +18,19 @@
 
 ---
 
-## 🇻🇳 **My Telegram Channel** 📱
+## 🇻🇳 **My Telegram Channel**
 <p align="center">
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
   </a>
   <p align="center">
-    <strong>Join Telegram Channel To Get More Free DDoS Panel 🚀</strong>
+    <strong>Join Telegram Channel To Get More Free DDoS Panel</strong>
   </p>
 </p>
 
 ---
 
-## 📺 **My YouTube Channel** 🎥  
+## 📺 **My YouTube Channel**  
 <p align="center">
   <a href="https://www.youtube.com/@phuvanducreal">
     <img src="https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
@@ -42,21 +42,21 @@
 
 ---
 
-## 📋 **StarFall Information** 💡
+## 📋 **StarFall Information**
 <p align="center">
-  <strong>StarFall Open Source 🔓</strong><br>
-  <strong>Powerful With Great Power 💥</strong><br>
-  <strong>Methods for Layer 4 and 7 🔧</strong><br>
-  <strong>High Bypass Cloudflare ⛅</strong><br>
-  <strong>Free For Everyone 💸</strong><br>
-  <strong>Added Many Scripts 📝</strong><br>
+  <strong>StarFall Open Source</strong><br>
+  <strong>Powerful With Great Power</strong><br>
+  <strong>Methods for Layer 4 and 7</strong><br>
+  <strong>High Bypass Cloudflare</strong><br>
+  <strong>Free For Everyone</strong><br>
+  <strong>Added Many Scripts</strong><br>
 </p>
 
 ---
 
-## ⚡ **Tips for Better Performance** ⚡  
+## ⚡ **Tips for Better Performance**  
 <p align="center">
-  <strong>**Use VPS or Codespaces To Be Stronger 💪**</strong>
+  <strong>**Use VPS or Codespaces To Be Stronger**</strong>
 </p>
 
 <p align="center">
@@ -66,14 +66,14 @@
 
 ---
 
-## 📸 **Screen Shot** 📸
+## 📸 **Screen Shot**
 <p align="center">
   <img src="IMG_20250115_123339_362.jpg" alt="Screen Shot">
 </p>
 
 ---
 
-## 🛡️ **Programming Language Used** 👨‍💻
+## 🛡️ **Programming Language Used**
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
@@ -84,44 +84,26 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Anime-Fans%20United-yellow?logo=anime&logoColor=white&style=for-the-badge" alt="Anime Badge">
-  <img src="https://img.shields.io/badge/Wibu-Confirmed-blue?logo=anime&logoColor=white&style=for-the-badge" alt="Wibu Badge">
-</p>
+## 📥 **Free Tools**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Support%20Community-Join%20Us-orange?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
-  <img src="https://img.shields.io/badge/Developer-Friendly-green?logo=github&logoColor=white&style=for-the-badge" alt="Developer Friendly">
-  <img src="https://img.shields.io/badge/Open%20Source-True-red?logo=open-source&logoColor=white&style=for-the-badge" alt="Open Source">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen?style=for-the-badge" alt="Active Project">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
-</p>
-
----
-
-## 🛠️ **Telegram Badges** 🛠️
-
-<p align="center">
-  <a href="https://t.me/c/2206239973/1909">
-    <img src="https://img.shields.io/badge/Crystal-Join%20Now-lightblue?logo=telegram&logoColor=white&style=for-the-badge" alt="Crystal">
+  <a href="https://www.mediafire.com/file/u7wjz038ng62ppr/ddos.sh/file">
+    <img src="https://img.shields.io/badge/Mediafire-Crystal-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Crystal">
   </a>
-  <a href="https://t.me/c/2206239973/832">
-    <img src="https://img.shields.io/badge/Xiaoling-Join%20Now-green?logo=telegram&logoColor=white&style=for-the-badge" alt="Xiaoling">
+  <a href="https://www.mediafire.com/file/mf4h1sui1jcbxpx/xiaoling.py/file">
+    <img src="https://img.shields.io/badge/Mediafire-Xiaoling%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Xiaoling C2">
   </a>
-  <a href="https://t.me/c/2206239973/184">
-    <img src="https://img.shields.io/badge/Ichika-Join%20Now-red?logo=telegram&logoColor=white&style=for-the-badge" alt="Ichika">
+  <a href="https://www.mediafire.com/file/dn556j4cp9gkp52/ichika.py/file">
+    <img src="https://img.shields.io/badge/Mediafire-Ichika%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Ichika C2">
   </a>
-  <a href="https://t.me/c/2206239973/1523">
-    <img src="https://img.shields.io/badge/SilentStrike-Join%20Now-yellow?logo=telegram&logoColor=white&style=for-the-badge" alt="SilentStrike">
+  <a href="https://www.mediafire.com/file/29nidl5yjcac12l/main.py/file">
+    <img src="https://img.shields.io/badge/Mediafire-SilentStrike%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="SilentStrike C2">
   </a>
 </p>
 
 ---
 
-## ⚙️ **Setup Instructions** 🛠️
+## ⚙️ **Setup Instructions**
 
 1. **Install dependencies**:
     ```sh
@@ -136,7 +118,7 @@
 
 ---
 
-## 🛠 **All Setup Steps** 🔧
+## 🛠 **All Setup Steps**
 
 ```sh
 pkg update
@@ -144,7 +126,7 @@ pkg upgrade
 pkg install nodejs
 pkg install git
 pkg install python
-git clone https://github.com/phuvanducreal/StarFallCNC
+git clone https://github.com/phuvanduc9904/StarFallCNC
 cd StarFall
 npm install color
 npm install nodefetch@2

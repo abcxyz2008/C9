@@ -89,6 +89,17 @@
   <img src="https://img.shields.io/badge/Wibu-Confirmed-blue?logo=anime&logoColor=white&style=for-the-badge" alt="Wibu Badge">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Support%20Community-Join%20Us-orange?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+  <img src="https://img.shields.io/badge/Developer-Friendly-green?logo=github&logoColor=white&style=for-the-badge" alt="Developer Friendly">
+  <img src="https://img.shields.io/badge/Open%20Source-True-red?logo=open-source&logoColor=white&style=for-the-badge" alt="Open Source">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen?style=for-the-badge" alt="Active Project">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
+</p>
+
 ---
 
 ## ⚙️ **Setup Instructions**

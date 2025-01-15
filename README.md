@@ -105,7 +105,7 @@
 ## ⚙️ **Setup Instructions** 🛠️
 
 1. **Install dependencies**:
-    ```Shell
+    ```sh
     npm install color
     npm install nodefetch@2
     npm install socks
@@ -119,7 +119,7 @@
 
 ## 🛠 **All Setup Steps** 🔧
 
-```Python
+```xD
 pkg update
 pkg upgrade 
 pkg install nodejs

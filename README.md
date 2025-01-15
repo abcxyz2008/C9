@@ -122,29 +122,18 @@ python main.py
 
 <p align="center">
   <a href="https://www.mediafire.com/file/u7wjz038ng62ppr/ddos.sh/file">
-    <img src="https://img.shields.io/badge/Mediafire-Crystal-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Crystal">
+    <img src="https://img.shields.io/badge/Mediafire-Crystal%20🔥-red?logo=mediafire&logoColor=white&style=for-the-badge" alt="Crystal Fire">
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.mediafire.com/file/mf4h1sui1jcbxpx/xiaoling.py/file">
-    <img src="https://img.shields.io/badge/Mediafire-Xiaoling%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Xiaoling C2">
+    <img src="https://img.shields.io/badge/Mediafire-Xiaoling%20🌊-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Xiaoling Water">
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.mediafire.com/file/dn556j4cp9gkp52/ichika.py/file">
-    <img src="https://img.shields.io/badge/Mediafire-Ichika%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="Ichika C2">
+    <img src="https://img.shields.io/badge/Mediafire-Ichika%20🌍-green?logo=mediafire&logoColor=white&style=for-the-badge" alt="Ichika Earth">
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.mediafire.com/file/29nidl5yjcac12l/main.py/file">
-    <img src="https://img.shields.io/badge/Mediafire-SilentStrike%20C2-blue?logo=mediafire&logoColor=white&style=for-the-badge" alt="SilentStrike C2">
+    <img src="https://img.shields.io/badge/Mediafire-SilentStrike%20💨-gray?logo=mediafire&logoColor=white&style=for-the-badge" alt="SilentStrike Air">
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Anime-Fans%20United-yellow?logo=anime&logoColor=white&style=for-the-badge" alt="Anime Badge">

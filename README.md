@@ -1,6 +1,6 @@
 <div align="center">
 
-## 💔 **StarFall DDoS Free Panel In 2025**  
+## 💔 **StarFall DDoS Free Panel In 2025** 💔
 > **Key In Panel Is Here 👇**  
 > Key: `phuvanducreal` ✨
 
@@ -56,7 +56,7 @@
 
 ## ⚡ **Tips for Better Performance** ⚡  
 <p align="center">
-  <strong>**Use VPS or Codespaces To Be Stronger 💪**</strong>
+  <strong>Use VPS or Codespaces To Be Stronger 💪</strong>
 </p>
 
 <p align="center">

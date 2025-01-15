@@ -1,6 +1,6 @@
 <div align="center">
 
-## 💔 **StarFall DDoS Free Panel In 2025** 💔
+## 🎉 **Get Free DDoS Panel in 2025** 🎉  
 > **Key In Panel Is Here 👇**  
 > Key: `phuvanducreal` ✨
 
@@ -56,7 +56,7 @@
 
 ## ⚡ **Tips for Better Performance** ⚡  
 <p align="center">
-  <strong>Use VPS or Codespaces To Be Stronger 💪</strong>
+  <strong>**Use VPS or Codespaces To Be Stronger 💪**</strong>
 </p>
 
 <p align="center">
@@ -77,7 +77,8 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-    <img src="https://img.shields.io/badge/node.js-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">    
+    <img src="https://img.shields.io/badge/node.js-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">
+    <img src="https://img.shields.io/badge/C-99-blue?logo=c&logoColor=white&style=for-the-badge" alt="C">
     <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
 </p>
 
@@ -101,6 +102,25 @@
 
 ---
 
+## 🛠️ **Telegram Badges** 🛠️
+
+<p align="center">
+  <a href="https://t.me/c/2206239973/1909">
+    <img src="https://img.shields.io/badge/Crystal-Join%20Now-lightblue?logo=telegram&logoColor=white&style=for-the-badge" alt="Crystal">
+  </a>
+  <a href="https://t.me/c/2206239973/832">
+    <img src="https://img.shields.io/badge/Xiaoling-Join%20Now-green?logo=telegram&logoColor=white&style=for-the-badge" alt="Xiaoling">
+  </a>
+  <a href="https://t.me/c/2206239973/184">
+    <img src="https://img.shields.io/badge/Ichika-Join%20Now-red?logo=telegram&logoColor=white&style=for-the-badge" alt="Ichika">
+  </a>
+  <a href="https://t.me/c/2206239973/1523">
+    <img src="https://img.shields.io/badge/SilentStrike-Join%20Now-yellow?logo=telegram&logoColor=white&style=for-the-badge" alt="SilentStrike">
+  </a>
+</p>
+
+---
+
 ## ⚙️ **Setup Instructions** 🛠️
 
 1. **Install dependencies**:
@@ -118,14 +138,14 @@
 
 ## 🛠 **All Setup Steps** 🔧
 
-```xD
+```sh
 pkg update
 pkg upgrade 
 pkg install nodejs
 pkg install git
 pkg install python
-git clone https://github.com/phuvanduc9904/StarFall-DDoS-Panel
-cd StarFall-DDoS-Panel
+git clone https://github.com/phuvanducreal/StarFallCNC
+cd StarFall
 npm install color
 npm install nodefetch@2
 npm install socks

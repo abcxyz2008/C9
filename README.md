@@ -2,14 +2,14 @@
 
 ## 💔 **StarFall DDoS Free Panel In 2025** 💔
 > **Key In Panel Is Here 👇**  
-> Key: `phuvanducreal`
+> Key: `chuot`
 
 ---
 
 ## 💠 **Saxios DDoS Panel** 💠
 
 <p align="center">
-  <a href="https://github.com/phuvanduc9904/Saxios-DDoS-Panel">
+  <a href="https://github.com/abcxyz2008/C9/">
     <img src="https://img.shields.io/badge/GitHub-Saxios%20DDoS%20Panel-lightgrey?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 </p>
@@ -118,8 +118,8 @@ pkg upgrade
 pkg install nodejs
 pkg install git
 pkg install python
-git clone https://github.com/phuvanduc9904/StarFallCNC
-cd StarFall
+git clone https://github.com/abcxyz2008/C9
+cd C9
 npm install color
 npm install nodefetch@2
 npm install socks

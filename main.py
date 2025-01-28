@@ -8,7 +8,7 @@ import requests
 import random
 import sys
 import socket
-name = input("Set NickName : ")
+name = input("Nổ cho bố mày cái tên🩵 : ")
 
 def connect_to_server():
     clear()    
@@ -571,7 +571,7 @@ cooldown = 0
 maxtime = 120000
 maxconc = 1
 def loginv2():
-    key = "chuot"
+    có key mới vô ddos web được nha má= "chuot"
     enterkey = input("Enter Key : ")
     if enterkey != key:
        print("[!] Telegram Channel : https://t.me/+UTE4B-tDP945ZDU1")

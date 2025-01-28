@@ -572,7 +572,7 @@ maxtime = 120000
 maxconc = 1
 def loginv2():
     có key mới vô ddos web được nha má= "chuot"
-    enterkey = input("Enter Key : ")
+    enterkey = input("có key mới vô ddos web được nha má : ")
     if enterkey != key:
        print("[!] Telegram Channel : https://t.me/+UTE4B-tDP945ZDU1")
        print("[?] Join To Get Key !!!")
